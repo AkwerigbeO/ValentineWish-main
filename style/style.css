@@ -6,7 +6,8 @@ html {
 body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
-  overflow-y: auto; /* Allow vertical scrolling */
+  overflow-y: auto; 
+  background-color: rgb(164, 220, 244);/* Allow vertical scrolling */
 }
 
 .container {
