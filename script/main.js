@@ -230,7 +230,7 @@ const animationTimeline = () => {
     )
     .from(
       ".wish h5",
-      0.5,
+      1.5,
       {
         opacity: 0,
         y: 10,
@@ -240,7 +240,7 @@ const animationTimeline = () => {
     )
     .staggerTo(
       ".eight svg",
-      1.5,
+      1.9,
       {
         visibility: "visible",
         opacity: 0,
